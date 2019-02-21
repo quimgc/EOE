@@ -46,4 +46,48 @@ Les empreses es poden classificar segons:
     - dades balanç.
 
     Tot això engloba a micro, petites, mitjanes i grans empreses.
-    
+
+  3 **Sector d'activitat:**
+    Existeix tres sectors:
+    - Primari: És quan una empresa els seus factors de producció provenen directament de la natura. Ex: Agricultura, pesca, ganaderia, explotacions forestals, ...
+    - Secundari: Quan s'elabora un producte a partir d'una materia prima. Ex: Industria extractiva, construcció, ...
+    - Terciari: És quan parlem d'empreses que fan prestacions de serveis. Ex: Hosteleria, transport, comerç.
+
+  4 **Àmbit geògrafic:**
+    És pot classificar En:
+    - Àmbit nacional: Només un país.
+    - Àmbit internacional: Més d'un país.
+      * Exportadores: Tenen la produccció al país d'origen i la venda la realitzen a un mercat estranger.
+      * Multinacionals: Actius i treballadors a més d'un país, per tant la realització i la venda es realitza a més d'un país.
+  5 **Destí beneficis:**
+    - Amb ànim de lucre: Són aquelles que tenen per objectiu la màxima benefici per repartir amb els propietaris.
+    - Sense ànim de lucre: Són les empreses que el seu objectiu no és obtenir beneficis, si el tenen, no es reparteix, sinó que es reinverteix amb l'empresa. Ex: Insercció de gent amb discapacitat.
+
+  6 **Forma juridica:**
+    Hi ha dos grans grups:
+    - Empresari individual: Quan l'activitat està realitzada per una persona física amb o sense treballadors.
+    - Forma societària: Diferents persones s'uneixen i aporten capital i treball.
+
+    Aquests dos punts formen el contracte d'associació.
+    Si es fa amb altgra gent és una persona jurídica.
+
+    Apareix una personalitat diferent (S.A, SL i COOP).
+
+    Per crear una Societat Lmitada, es necessita un capital mínim. Al notari se li ha de mostrar el registre del nom (això és el registre a nivell nacional per validar-ho) i el capital.
+    El capital mínim a de ser 3.000€.
+
+  Dins d'una empresa trobem dos altres funcions:
+  - Administració Dins d'una empresa hi ha:
+    - Adminstradors: Són els encarregats de dirigir el treball dels altres. Realitzen les funcions generals, la definció és un procés mitjançant el cual es porten a terme activitats mitjançant l'ús de persones amb l'objectiu d'aconseguir els objectius adequats.
+
+    L'administració té quatre fases:
+
+      1 Planificar: Fixar els objectius d'una empresa així com camins per aconseguir-ho.
+      2 Organitzar: Agafar els recursos de l'empresa i cumplir els plans organitzats al punt 1.
+      3 Dirigir: Parlar de motivació/lideratge; Això es fa perquè aquestes realitzin correctament la tasca planificada.
+      4 Controlar: Seguiment de les activitats; corregir dels possibles problemes.
+
+    - Operacions: Les operacions s'encarreguen de que totes les accions necessàries acabi produint el seu producte o servei.
+    - Comercialització: Vendre el produce, crear demanda i vendre marketing.
+    - Recursos humans: L'àrea de recursos humans s'encarrega de que l'empresa tingui el nº de persones adecuades a la producció marcada. El servei de recursos humans s'encarreguen de buscar el personal adecuat per formar part de l'empresa.
+    - Inversió i finançament: D'on trec els diners i des d'on imparteixo.
