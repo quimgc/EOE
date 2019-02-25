@@ -1,4 +1,4 @@
-# EOE
+# ECONOMIA DE L'ORGANITZACIÓ DE L'EMPRESA
 
 ## Introducció a l'empresa 15/05/2019
 
