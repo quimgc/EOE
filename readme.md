@@ -91,3 +91,83 @@ Les empreses es poden classificar segons:
     - Comercialització: Vendre el produce, crear demanda i vendre marketing.
     - Recursos humans: L'àrea de recursos humans s'encarrega de que l'empresa tingui el nº de persones adecuades a la producció marcada. El servei de recursos humans s'encarreguen de buscar el personal adecuat per formar part de l'empresa.
     - Inversió i finançament: D'on trec els diners i des d'on imparteixo.
+
+# FALTA APUNTS DE L'ALEX
+
+## 26/02/2019
+
+Quan l'empresa produeix més d'un producte fa molt dificil associar els costos al producte A i al producte B. Per això hi ha una diferència entre costos directes i indirectes.
+
+* **Directes:** Són els que es poden assignar a la gran producció. Ex: Materia prima, sou treballadors,...
+
+* **Indirectes:** Són aquells que són despeses, costos, com per exemple el lloguer de la nau.
+
+A mesura que s'augmenta la producció la part de costs fix total a l'empres que s'assigna a cada quantitat, va disminuint.
+
+El PVP ha de tenir en compte la quantitat minima de ventes que haurà de tenir per compensar tots els costos que tindrà aquella producció.
+
+Aquella quantitat produïda i venuda de la qual començo a obtenir beneficis.
+
+El Punt Mort apareix quan els ingressos totals és igual al cost total.
+
+* **1) Unitats de producte:** Quantes unitats físiques s'ha de vendre per a que el meu benefici sigui igual a zero.
+El punt mort -> Increment Total(Preu * Quantitat) = Costos Totals(Cost Físic + Cost Variable(CF+(CV*Q))).
+
+**Q =  CF/P-CVunitari**
+
+* **2) Unitats Monetaries:** Quants diners s'ha d'ingressar per a que el meu benefici sigui igual a zero.
+
+**UM -> Q= CF / 1 - Cost unitari total / import vendes**
+
+Exemple d'empresa:
+
+Materia prima: -50000€. Cost Variable.<br>
+Electricitat: -50000€. Cost Variable.<br>
+Materia prima: 100000€. Cost Variable.<br>
+Lloguer nau: 5000000€. Cost Fix.<br>
+Cost manteniment fix de la maquinaria: -5000000€. Cost Fix. <br>
+Sous: -100000€. Cost Variable. <br>
+Producció: -1000 unitats. <br>
+PVP: 500€ x unitat. Cost Variables. <br>
+Ventes: -500000 A/M.<br>
+
+Fòrmula unitats físiques: Q = CF / P - Cost Variable unitari.
+
+Cost Variable = CUT / Unitats = 300000/100000 -> 300
+
+Q = 10M/500-300 -> 50000 unitats.
+
+Cost fix no depèn de la producció.
+Cost variable va lligat a la producció, com més produeixo més gasto.
+
+Materia prima: -50000€. Cost Variable.<br>
+Electricitat: -50000€. Cost Variable.<br>
+Cost Variables: 20000€ Cost Variable. <br>
+Cost Fix: 25000€. Cost Fix <br>
+Benefici: 5000€. Cost Variable <br>
+Import Vendes: 100000€.
+
+# Demanar A alex els calculs
+
+## Marge Contribució
+
+És una magnitud que relaciona els volums de ventes i els costos variables. Això és el mateix que dir els beneficis sense cost fix.
+
+Marge de contribució (MC) = Venta - Cost de Venta -> Rentat -> Costos fixos i beneficis.
+
+...
+
+Marge de contribució total i unitari:
+
+
+CF - 1M
+CV - 50% preu de Vendes
+PVP 1000 x unitat
+produccio - 2000 Unitats
+
+
+Calcular  PECF: CF / P-CUu - > 1M / 1000 - 500 = 2000UF.
+
+Calcular PEUM: CF/1-CVTotal / Import de Vendes -> 1M / 500 * 2000u / 1000*2000 = 2M.
+
+Calcular MCTotal: Ingrès Total - Cost Variable -> 1000*2000 - 500x2000 = 2M - 1M = 1M import producció.
