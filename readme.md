@@ -171,3 +171,43 @@ Calcular  PECF: CF / P-CUu - > 1M / 1000 - 500 = 2000UF.
 Calcular PEUM: CF/1-CVTotal / Import de Vendes -> 1M / 500 * 2000u / 1000*2000 = 2M.
 
 Calcular MCTotal: Ingrès Total - Cost Variable -> 1000*2000 - 500x2000 = 2M - 1M = 1M import producció.
+
+
+# 27/02/2019
+
+MATRIU DAFO el que fa és un enfrontament de factors interns i externs.
+
+El procés de realització d'una matriu dafo el posem en quatre apartats:
+
+**1 Analisi Extern:** Quan l'empresa realitza un analisis extern, el que fa és identificar dos espectes:
+* Oportunitats: Factor extern, no pertany a la propia empresa. Si podem identificar-ho, tinc un avantatge.
+* Amenaces: Factor extern que va contra el meu projecte.
+
+**2 Analisi Intern:** Apareixen dos nous conceptes:
+* Debilitats: Factor intern, propia de dins l'empresa, que impedeix el meu bon funcionament.
+* Fortaleses: Factor intern, que jo faig millor que la resta dels meus competidors.
+
+Quan l'empresa intenta buscar les oportunitats, puc preguntar a quines oportunitats m'enfontro al dia a dia, quines tendencies hi ha al mercat, quins canvis teconologics s'estan produint, quins canvis d'estil de vida, legislatius,...
+
+Les preguntes que ens podem fer per trobar les amenaçes poden ser, quins obstacles tinc, que fa la meva competencia, si hi ha una amenaça que faci que la meva empresa hagi de produir el tancament immediat.
+
+Per detectar les meves debilitats puc preguntar que millorar i evitar, que pot ser millor pel client com una debilitat.
+
+Per detectar la fortalesa, puc preguntar al client que considera com un avantatge,...
+
+**3 Matriu DAFO:**
+
+Quan ja tenim totes les respostes de les preguntes anteriors, creem una taula i ho anem afegint.
+
+Exemple a partir d'un equip de futbol.
+
+* *Estrategia FO o OFENSIVA:* basada amb fortaleses i oportunitats. El meu equip de futbol conté tot el que hi ha a la casella de fortaleses.
+Quan els meus enemics tinguin debilitats, això em donarà la possibilitat d'utilitzar les oportunitats que tinc.  
+
+* *Estrategia FA o DEFENSIVA:* Defensiva, la meva missió és defensar-me de les fortaleses i oportunitats dels demés.
+
+* *Estrategia DO o ADAPTIVA:* Aquí s'agafa les meves debilitats però en aquest cas, l'equip rival té les mateixes oportunitats que jo. La idea és aprofitar qualsevol oportunitat per guanyar-los.
+
+* *Estrategia DA o SUPERVIVENCIA:* Convertir-te amb un paki i vendre tot i obrir 24/7/365.
+
+**4 Estrategies:**
